@@ -1,0 +1,4 @@
+1 15 -1 Tractor
+2 15 -1 car
+3 20 -1 crocodile
+4 20 -1 chocolate
